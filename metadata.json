@@ -1,0 +1,6 @@
+{
+  "name": "Kioscos Inteligentes de Devolución de Figuras",
+  "description": "Simulador interactivo del clúster de agentes IA (Vision Auditor, Fraud Validator, Incidence Router) y hardware para kioscos de devolución de figuras con protocolo HITL (<45s SLA).",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
